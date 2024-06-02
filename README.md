@@ -42,8 +42,8 @@ if __name__ == "__main__":
     menu = menu_olustur()
     csv_olustur(menu)
     print("CSV dosyası başarıyla oluşturuldu.")
-
-## Note
+     ```
+### Note
 The menu_olustur function collects the product names and prices from the user until 'q' is pressed.
 The csv_olustur function writes the collected menu data to a CSV file named menu.csv by default.
 You can now use the generated menu.csv file in the application for managing orders.
