@@ -1,5 +1,6 @@
-Adisyon Application
-About the Project
+#### Adisyon Application
+
+## About the Project
 This project is an application that provides multi-user login and facilitates order management for restaurants. Users gain a personalized and secure experience by logging in with their username and password. The application allows users to interact with tables, add or remove orders, and manage payments.
 
 Features
