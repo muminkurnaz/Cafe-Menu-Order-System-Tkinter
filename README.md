@@ -23,13 +23,22 @@ This project is an application that provides multi-user login and facilitates or
 - Detailed daily sales, including product quantities and amounts.
 - Total earnings displayed at the bottom of the screen.
 
-## Installation and Usage
-1. Clone this repository to your local machine:
-"git clone https://github.com/your_username/adisyon_app.git"
+# Usage Details
+## Login Panel
+Upon starting the application, users can access the system by entering their username and password. After a successful login, the specified number of tables and a button to track daily sales will be displayed.
+
+## Table Selection
+When clicking on a table number, users are directed to an area where they can add, remove orders, and make payments. Orders can be created by selecting products from the menu and specifying the quantity. After completing the addition or removal process, users can click the "Make Payment" button to proceed with the payment.
+
+## Make Payment
+On the payment screen, users can select a payment type such as cash or credit card to complete the transaction. After the payment, a success notification pop-up will appear.
+
+## Daily Sales
+By clicking the "Daily Sales" button on the main screen, users can view detailed daily sales, including product quantities and amounts, along with the total earnings displayed at the bottom. This screen allows users to easily monitor daily sales performance and perform relevant analyses if needed.
 
 
 ## Contributing
-Contributions are welcome! Please fork this repository and submit pull requests to contribute to the project.
+If you would like to contribute, please fork the repository, make your changes, and submit a pull request. We appreciate all contributions and feedback.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
