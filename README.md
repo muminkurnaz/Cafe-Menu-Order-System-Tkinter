@@ -25,7 +25,7 @@ This project is an application that provides multi-user login and facilitates or
 
 ## Installation and Usage
 1. Clone this repository to your local machine:
-### git clone https://github.com/your_username/adisyon_app.git
+"git clone https://github.com/your_username/adisyon_app.git"
 
 
 ## Contributing
