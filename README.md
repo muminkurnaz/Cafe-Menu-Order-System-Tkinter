@@ -5,21 +5,21 @@ This project is an application that provides multi-user login and facilitates or
 
 ## Features
 
-# User Login
+### User Login
 - Login with username and password.
 - Secure and personalized experience.
-# Main Screen
+### Main Screen
 - Display table numbers as per the specified number of tables.
 - Button to track daily sales.
-# Table Selection and Order Management
+### Table Selection and Order Management
 - Select products and specify quantities from the menu.
 - Options to "Add to Cart" or "Remove".
 - "Make Payment" button for payment transactions.
 - "Return to Main Interface" button to go back to the main screen.
-# Payment Transactions
+### Payment Transactions
 Select payment type (cash, credit card, etc.).
 Completion of transaction followed by a notification screen.
-# Daily Sales
+### Daily Sales
 Detailed daily sales, including product quantities and amounts.
 Total earnings displayed at the bottom of the screen.
 
