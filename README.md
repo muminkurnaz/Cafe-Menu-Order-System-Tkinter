@@ -3,7 +3,7 @@
 ## About the Project
 This project is an application that provides multi-user login and facilitates order management for restaurants. Users gain a personalized and secure experience by logging in with their username and password. The application allows users to interact with tables, add or remove orders, and manage payments.
 
-## Features
+# Features
 
 ### User Login
 - Login with username and password.
@@ -17,14 +17,15 @@ This project is an application that provides multi-user login and facilitates or
 - "Make Payment" button for payment transactions.
 - "Return to Main Interface" button to go back to the main screen.
 ### Payment Transactions
-Select payment type (cash, credit card, etc.).
-Completion of transaction followed by a notification screen.
+- Select payment type (cash, credit card, etc.).
+- Completion of transaction followed by a notification screen.
 ### Daily Sales
-Detailed daily sales, including product quantities and amounts.
-Total earnings displayed at the bottom of the screen.
+- Detailed daily sales, including product quantities and amounts.
+- Total earnings displayed at the bottom of the screen.
 
 ## Installation and Usage
-
+1. Clone this repository to your local machine:
+### git clone https://github.com/your_username/adisyon_app.git
 
 
 ## Contributing
