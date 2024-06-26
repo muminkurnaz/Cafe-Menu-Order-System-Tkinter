@@ -4,9 +4,9 @@
 This project is an application that provides multi-user login and facilitates order management for restaurants. Users gain a personalized and secure experience by logging in with their username and password. The application allows users to interact with tables, add or remove orders, and manage payments.
 
 ### Folders
-`adisyon_app_code.py`: This file contains the code for the cafe order management system.
-`menu_code.py`: This file contains the code for creating the menu for the system.
-`Results` : This folder contains images and visual results related to the project, showcasing the functionality and output of the system.
+- `adisyon_app_code.py`: This file contains the code for the cafe order management system.
+- `menu_code.py`: This file contains the code for creating the menu for the system.
+- `Results` : This folder contains images and visual results related to the project, showcasing the functionality and output of the system.
 
 # Features
 
